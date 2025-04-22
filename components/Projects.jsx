@@ -54,7 +54,7 @@ const fullStackProjects = [
     description:
       "My portfolio rebuilt in Next.js with Framer Motion, dark mode, and smooth animations.",
     tech: ["Next.js", "Tailwind", "Framer Motion"],
-    link: "https://github.com/harinivanmeeganathan/portfolio/tree/portfolio_2.0",
+    link: "https://github.com/harinivanmeeganathan/harini-portfolio",
   },
 ];
 

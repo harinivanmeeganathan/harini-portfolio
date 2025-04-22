@@ -27,7 +27,7 @@ export default function Contact() {
             { icon: <FaXTwitter className="w-6 h-6" />, link: "https://x.com/harinivanmee" },
             { icon: <FaKaggle />, link: "https://www.kaggle.com/harinivanmeeganathan" },
             { icon: <FaMedium />, link: "https://medium.com/@vanmeeganathanharini" },
-            { icon: <FaGlobe />, link: "http://localhost:3000/" },
+            { icon: <FaGlobe />, link: "https://harinivanmeeganathan-portfolio.vercel.app/" },
             { icon: <span className="text-xl">🤗</span>, link: "https://huggingface.co/harinivanmeeganathan" },
           ].map(({ icon, link }, idx) => (
             <motion.a
